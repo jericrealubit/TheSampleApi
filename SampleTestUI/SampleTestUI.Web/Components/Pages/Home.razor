@@ -1,0 +1,16 @@
+﻿@page "/"
+@using SampleTestUI.Web.Models
+@inject HttpClient http
+
+<PageTitle>Courses</PageTitle>
+
+<h1>All Courses</h1>
+
+@code {
+    private List<CourseModel>? courses;
+
+    protected override async Task OnInitializedAsync()
+    {
+        courses = await http.GetFromJsonAsync<List<CourseModel>>("https://localhost:7140");
+    }
+}

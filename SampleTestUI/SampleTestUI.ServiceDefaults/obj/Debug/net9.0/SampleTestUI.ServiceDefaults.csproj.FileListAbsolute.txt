@@ -1,0 +1,13 @@
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\bin\Debug\net9.0\SampleTestUI.ServiceDefaults.deps.json
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\bin\Debug\net9.0\SampleTestUI.ServiceDefaults.dll
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\bin\Debug\net9.0\SampleTestUI.ServiceDefaults.pdb
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.AssemblyInfo.cs
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.sourcelink.json
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.dll
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\refint\SampleTestUI.ServiceDefaults.dll
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\SampleTestUI.ServiceDefaults.pdb
+C:\Users\jeric\source\repos\TheSampleApiApp\SampleTestUI\SampleTestUI.ServiceDefaults\obj\Debug\net9.0\ref\SampleTestUI.ServiceDefaults.dll

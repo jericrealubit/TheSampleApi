@@ -35,3 +35,5 @@ C:\Users\jeric\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\TheSam
 C:\Users\jeric\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\ref\TheSampleApi.dll
 C:\Users\jeric\source\repos\TheSampleApiApp\TheSampleApi\bin\Debug\net9.0\Data\coursedata.json
 C:\Users\jeric\source\repos\TheSampleApiApp\TheSampleApi\obj\Debug\net9.0\TheSampleApi.sourcelink.json
+C:\Users\jeric\source\repos\TheSampleApiApp\TheSampleApi\bin\Debug\net9.0\HealthChecks.UI.Client.dll
+C:\Users\jeric\source\repos\TheSampleApiApp\TheSampleApi\bin\Debug\net9.0\HealthChecks.UI.Core.dll

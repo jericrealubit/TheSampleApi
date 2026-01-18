@@ -1,4 +1,4 @@
-﻿namespace SampleTestUI.Web.Models;
+﻿namespace SampleTestUI.Web.Components.Models;
 
 public class CourseModel
 {
